@@ -1,0 +1,43 @@
+.cont {
+    margin: 0;
+    width: 100vw;
+    height: 100vh;
+    background-color: #1d1d1d;
+    display: flex;
+}
+
+.leftSide {
+    display: flex;
+    flex-direction: column;
+    width: 50vw;
+    height: 100vh;
+    justify-content: center;
+}
+.rightSide {
+    width: 50vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+}
+.ab {
+    margin-left: 7rem;
+    font-family: 'Arvo', serif;
+}
+.head {
+    color: #08fdd8;
+    font-weight: 50;
+    font-size: 1.5rem;
+}
+.me {
+    color: #FD1056;
+    font-weight: 200;
+    font-size: 4rem;
+}
+.des {
+    color: #fff;
+    font-weight: 50;
+    font-size: 1.1rem;
+}
+.pic {
+    max-width: 100%;
+}

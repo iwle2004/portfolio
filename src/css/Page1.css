@@ -1,0 +1,21 @@
+.con {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+}
+.mainText {
+    color: #fff;
+    font-family: 'Arvo', serif;
+    line-height: 8.7rem;
+    font-size: 7rem;
+    font-weight: 400;
+    margin-left: 10rem;
+}
+.sideText {
+    color: #fff;
+    font-family: 'Arvo', serif;
+    font-size: 2rem;
+    font-weight: 100;
+    margin-left: 5rem;
+}
